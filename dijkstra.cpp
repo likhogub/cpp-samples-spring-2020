@@ -1,5 +1,4 @@
 #include <iostream>
-#include <ctime>
 using namespace std;
 
 int C[50][50];
